@@ -1,5 +1,5 @@
 local ip = game:HttpGet("https://api.ipify.org/") 
-local authtest = loadstring(game:HttpGet(""))() --Link for auths
+local authtest = loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptboy123/Bling-WareAuthss/main/Whitelist"))() --Link for auths
 local function sha256(msg)
         local function band(int1, int2, int3, ...)
                 local ret =
